@@ -869,21 +869,6 @@
 
     .line 178
     :cond_10
-    iget-object v3, p0, Lnet/cactii/flash2/FlashDevice;->mFlashDeviceWriter:Ljava/io/FileWriter;
-
-    sget v4, Lnet/cactii/flash2/FlashDevice;->mValueOn:I
-
-    invoke-static {v4}, Ljava/lang/String;->valueOf(I)Ljava/lang/String;
-
-    move-result-object v4
-
-    invoke-virtual {v3, v4}, Ljava/io/FileWriter;->write(Ljava/lang/String;)V
-
-    .line 179
-    iget-object v3, p0, Lnet/cactii/flash2/FlashDevice;->mFlashDeviceWriter:Ljava/io/FileWriter;
-
-    invoke-virtual {v3}, Ljava/io/FileWriter;->flush()V
-
     .line 181
     packed-switch p1, :pswitch_data_1
 
@@ -892,52 +877,6 @@
 
     .line 194
     :pswitch_4
-    iget-object v3, p0, Lnet/cactii/flash2/FlashDevice;->mFlashDeviceLuminosityWriter:Ljava/io/FileWriter;
-
-    sget v4, Lnet/cactii/flash2/FlashDevice;->mValueLow:I
-
-    invoke-static {v4}, Ljava/lang/String;->valueOf(I)Ljava/lang/String;
-
-    move-result-object v4
-
-    invoke-virtual {v3, v4}, Ljava/io/FileWriter;->write(Ljava/lang/String;)V
-
-    .line 195
-    iget-object v3, p0, Lnet/cactii/flash2/FlashDevice;->mFlashDeviceLuminosityWriter:Ljava/io/FileWriter;
-
-    invoke-virtual {v3}, Ljava/io/FileWriter;->close()V
-
-    .line 196
-    const/4 v3, 0x0
-
-    iput-object v3, p0, Lnet/cactii/flash2/FlashDevice;->mFlashDeviceLuminosityWriter:Ljava/io/FileWriter;
-
-    .line 197
-    iget-object v3, p0, Lnet/cactii/flash2/FlashDevice;->mFlashDeviceLuminosityWriter2:Ljava/io/FileWriter;
-
-    if-eqz v3, :cond_11
-
-    .line 198
-    iget-object v3, p0, Lnet/cactii/flash2/FlashDevice;->mFlashDeviceLuminosityWriter2:Ljava/io/FileWriter;
-
-    sget v4, Lnet/cactii/flash2/FlashDevice;->mValueLow:I
-
-    invoke-static {v4}, Ljava/lang/String;->valueOf(I)Ljava/lang/String;
-
-    move-result-object v4
-
-    invoke-virtual {v3, v4}, Ljava/io/FileWriter;->write(Ljava/lang/String;)V
-
-    .line 199
-    iget-object v3, p0, Lnet/cactii/flash2/FlashDevice;->mFlashDeviceLuminosityWriter2:Ljava/io/FileWriter;
-
-    invoke-virtual {v3}, Ljava/io/FileWriter;->close()V
-
-    .line 200
-    const/4 v3, 0x0
-
-    iput-object v3, p0, Lnet/cactii/flash2/FlashDevice;->mFlashDeviceLuminosityWriter2:Ljava/io/FileWriter;
-
     .line 202
     :cond_11
     iget-object v3, p0, Lnet/cactii/flash2/FlashDevice;->mFlashDeviceWriter:Ljava/io/FileWriter;
@@ -990,27 +929,6 @@
 
     .line 184
     iget-object v3, p0, Lnet/cactii/flash2/FlashDevice;->mFlashDeviceLuminosityWriter:Ljava/io/FileWriter;
-
-    invoke-virtual {v3}, Ljava/io/FileWriter;->flush()V
-
-    .line 185
-    iget-object v3, p0, Lnet/cactii/flash2/FlashDevice;->mFlashDeviceLuminosityWriter2:Ljava/io/FileWriter;
-
-    if-eqz v3, :cond_12
-
-    .line 186
-    iget-object v3, p0, Lnet/cactii/flash2/FlashDevice;->mFlashDeviceLuminosityWriter2:Ljava/io/FileWriter;
-
-    sget v4, Lnet/cactii/flash2/FlashDevice;->mValueLow:I
-
-    invoke-static {v4}, Ljava/lang/String;->valueOf(I)Ljava/lang/String;
-
-    move-result-object v4
-
-    invoke-virtual {v3, v4}, Ljava/io/FileWriter;->write(Ljava/lang/String;)V
-
-    .line 187
-    iget-object v3, p0, Lnet/cactii/flash2/FlashDevice;->mFlashDeviceLuminosityWriter2:Ljava/io/FileWriter;
 
     invoke-virtual {v3}, Ljava/io/FileWriter;->flush()V
 
@@ -1096,22 +1014,6 @@
     sget v3, Lnet/cactii/flash2/FlashDevice;->mValueHigh:I
 
     if-ltz v3, :cond_16
-
-    .line 221
-    iget-object v3, p0, Lnet/cactii/flash2/FlashDevice;->mFlashDeviceLuminosityWriter:Ljava/io/FileWriter;
-
-    sget v4, Lnet/cactii/flash2/FlashDevice;->mValueHigh:I
-
-    invoke-static {v4}, Ljava/lang/String;->valueOf(I)Ljava/lang/String;
-
-    move-result-object v4
-
-    invoke-virtual {v3, v4}, Ljava/io/FileWriter;->write(Ljava/lang/String;)V
-
-    .line 222
-    iget-object v3, p0, Lnet/cactii/flash2/FlashDevice;->mFlashDeviceLuminosityWriter:Ljava/io/FileWriter;
-
-    invoke-virtual {v3}, Ljava/io/FileWriter;->flush()V
 
     .line 223
     iget-object v3, p0, Lnet/cactii/flash2/FlashDevice;->mFlashDeviceLuminosityWriter2:Ljava/io/FileWriter;

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="flashDevice">/sys/class/sec/flash/enable</string>
-    <string name="flashDeviceLuminosity" />
-    <string name="flashDeviceLuminosity2" />
+    <string name="flashDeviceLuminosity">/sys/class/camera/flash/rear_flash</string>
+    <string name="flashDeviceLuminosity2">/sys/class/camera/flash/burning_led</string>
     <string name="app_name">Torch</string>
     <string name="about_title">About</string>
     <string name="about_close">Close</string>

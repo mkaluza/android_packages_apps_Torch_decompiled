@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">لایت</string>
+    <string name="about_title">دەربارەی</string>
+    <string name="about_close">داخستن</string>
+    <string name="description">"ئەم بەرنامەیە بەکاردێت لەگەڵ لایتی کامێراکە.
+"</string>
+    <string name="warning">"ئاگاداربه‌:وازهێنانی فلاشه‌که‌ و به‌جێهێشتنی بۆ ماوه‌یه‌کی زۆر له‌وانه‌یه‌ زۆر گه‌رمی بکات.
+
+ڕووناکی به‌رده‌وام \"به‌رده‌وام کاربکات\" تاقیکراوه‌ته‌وه‌ بۆ ½ کاژێر. به‌ڵام له‌وانه‌یه‌ کێشه‌ت بۆ دروستبکات.
+"</string>
+    <string name="license">"کۆدی بنەڕەتی لە Nexus One Torch لە لایەن Ben Buxton, لە ژێر GPLv3 دەرکراوە, پاشان گوڕدراوە بۆ سایانۆجنمۆد.
+http://n1torch.googlecode.com"</string>
+    <string name="warning_label">ئاگادارکردنه‌وه‌</string>
+    <string name="brightwarn">"پڕ ڕووناکی به‌ سه‌رکه‌وتوویی تاقیکرایه‌وه‌ بۆ ½ کاژێر کارکردن. به‌ڵام بە تەواوی گەرم بوو. پاشان له‌ دوای (نزیکەی) ٤٥ خوله‌ک دەستی کرد بە ترپەترپ کردن. کاریگەرییەکان بۆ ماوەیەکی درێژ نەزانراون.
+
+'وەرگرتن' لێدە ئه‌گه‌ر ئه‌ته‌وێ به‌ کاری بهێنی لە سەر ڕیسکی خۆت."</string>
+    <string name="brightwarn_negative">نا سوپاس</string>
+    <string name="brightwarn_accept">پەسەند کردن</string>
+    <string name="label_high">ڕۆشنایی بەرز</string>
+    <string name="widget_options">هەڵبژاردەی گشتی</string>
+    <string name="setting_widget_bright">ویجدی ڕۆشنایی</string>
+    <string name="setting_add_widget">زیادکردنی کورته‌وێنه‌</string>
+    <string name="not_torch_title">کردنەوەی لایت</string>
+    <string name="not_torch_toggle">كوژانەوە لایت</string>
+</resources>

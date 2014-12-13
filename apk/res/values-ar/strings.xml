@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الشعلة</string>
+    <string name="about_title">حول</string>
+    <string name="about_close">إغلاق</string>
+    <string name="description">"هذا البرنامج يقوم بالتلاعب الكاميرا LED.
+"</string>
+    <string name="warning">"تحذير: ترك LED لوقت طويل قد أسخن .
+
+Full السطوع 'على الدوام' وقد تم اختبار تشغيل للموارد البشرية ½، ولكن هناك المخاطر وهذا يمكن أن يلحق الضرر LED.
+"</string>
+    <string name="license">"التعليمات البرمجية الأصليةNexus One أشعلت بي Ben Buxton، أفرج عنه بموجب GPLv3، تعديل CyanogenMod.
+http://n1torch.googlecode.com"</string>
+    <string name="warning_label">تحذير</string>
+    <string name="brightwarn">"وقد تم اختبار سطوع كامل بنجاح ل ½ ساعة من العملية، ولكن حصلت سخونة شديدة، و الخفقان (مؤقتا) في 45 دقيقة. الآثار على المدى الطويل غير معروفة.
+
+ انقر 'قبول' إذا كنت ترغب في استخدامه على مسؤوليتك الخاصة."</string>
+    <string name="brightwarn_negative">لا، شكراً</string>
+    <string name="brightwarn_accept">موافقة</string>
+    <string name="label_high">سطوع عالي</string>
+    <string name="widget_options">خيارات عامة</string>
+    <string name="setting_widget_bright">زر سطوع في اللنشر</string>
+    <string name="setting_add_widget">إدراج زر في اللنشر</string>
+    <string name="not_torch_title">الشعلة تعمل</string>
+    <string name="not_torch_toggle">إيقاف تشغيل الشعلة</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lommelygte</string>
+    <string name="about_title">Om</string>
+    <string name="about_close">Luk</string>
+    <string name="description">"Dette program manipulerer med kameraets LED-lys.
+"</string>
+    <string name="warning">"Advarsel: Hvis man efterlader LED-lyset tændt i lang tid er der risiko for overophedning.
+
+Fuld lysstyrke er blevet testet i en ½ time i træk uden problemer, men der er risiko for at det kan skade LED'en.
+"</string>
+    <string name="license">"Oprindelig kode fra Nexus One's lommelygte-app af Ben Buxton, udgivet under GPLv3, modificeret til CyanogenMod.
+http://n1torch.googlecode.com"</string>
+    <string name="warning_label">Advarsel</string>
+    <string name="brightwarn">"Fuld lysstyrke er blevet tested uden problemer i ½ time i træk, men efter 45 minutter blev den ret varm og begyndte at flimre (midlertidigt). Langtidseffekten er ukendt.
+
+Widgeten understøtter ikke denne funktionalitet endnu.
+
+Tryk “Accepter” hvis du ønsker at bruge det på eget ansvar."</string>
+    <string name="brightwarn_negative">Nej tak</string>
+    <string name="brightwarn_accept">Acceptér</string>
+    <string name="label_high">Høj lysstyrke</string>
+    <string name="widget_options">Generelle indstillinger</string>
+    <string name="setting_widget_bright">Høj lysstyrke-widget</string>
+    <string name="setting_add_widget">Tilføj widget</string>
+    <string name="not_torch_title">Lommelygte tændt</string>
+    <string name="not_torch_toggle">Sluk lommelygte</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zaklamp</string>
+    <string name="about_title">Over</string>
+    <string name="about_close">Sluiten</string>
+    <string name="description">"Deze app manipuleert de cameraled.
+"</string>
+    <string name="warning">"Let op: als de led te lang aan staat, kan dit leiden tot oververhitting. 
+ 
+ De led fel aan is een half uur lang getest zonder problemen, maar het risico bestaat dat dit schadelijk kan zijn voor de led. 
+"</string>
+    <string name="license">"Originele code van 'Nexus One Torch’ ontwikkeld door Ben Buxton, uitgegeven onder GPLv3, aangepast voor CyanogenMod.
+http://n1torch.googlecode.com"</string>
+    <string name="warning_label">Let op</string>
+    <string name="brightwarn">"Fel licht is een half uur lang getest zonder problemen, maar de led werd heet en begon bij 45 minuten te knipperen. De effecten op de lange termijn zijn niet bekend.
+
+Tik op 'Accepteren’ om op eigen risico te gebruiken."</string>
+    <string name="brightwarn_negative">Annuleren</string>
+    <string name="brightwarn_accept">Accepteren</string>
+    <string name="label_high">Fel licht</string>
+    <string name="widget_options">Algemeen</string>
+    <string name="setting_widget_bright">Helderheidswidget</string>
+    <string name="setting_add_widget">Widget toevoegen</string>
+    <string name="not_torch_title">Zaklamp actief</string>
+    <string name="not_torch_toggle">Zaklamp uitschakelen</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">פנס</string>
+    <string name="about_title">אודות</string>
+    <string name="about_close">סגור</string>
+    <string name="description">"יישום זה משתמש בנורת הLED של המצלמה.
+"</string>
+    <string name="warning">"אזהרה: השארת נורת הLED של המצלמה דולקת לזמן ארוך עלולה לגרום לחימום יתר שלה.
+
+בהירות מלאה “תמיד דולק” נבדקה למשך כחצי שעה, אך הסיכון לגרימת נזק לנורת הLED קיים.
+"</string>
+    <string name="license">"קוד מקורי מהפנס של Nexus One מ-Ben Buxton, ששוחרר תחת GPLv3, ששונה בשביל CyanogenMod.
+http://n1torch.googlecode.com"</string>
+    <string name="warning_label">אזהרה</string>
+    <string name="brightwarn">"בהירות מלאה נבדקה בהצלחה למשך ½ שעת פעולה, אבל גרמה לנורה להתחמם, וגרמה להבהובים (זמניים) לאחר 45 דקות. השפעות לטווח הארוך לא ידועות.
+
+לחץ 'מסכים' אם אתה לוקח את האחריות על עצמך."</string>
+    <string name="brightwarn_negative">לא תודה</string>
+    <string name="brightwarn_accept">קבל</string>
+    <string name="label_high">בהירות גבוהה</string>
+    <string name="widget_options">אפשרויות כלליות</string>
+    <string name="setting_widget_bright">‏Widget אור בהיר</string>
+    <string name="setting_add_widget">הוסף Widget</string>
+    <string name="not_torch_title">פנס פועל</string>
+    <string name="not_torch_toggle">כבה פנס</string>
+</resources>

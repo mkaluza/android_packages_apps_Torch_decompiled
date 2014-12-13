@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lanternă</string>
+    <string name="about_title">Despre</string>
+    <string name="about_close">Închide</string>
+    <string name="description">"Acest program manipulează LED-ul camerei.
+"</string>
+    <string name="warning">"Atenție: LED-ul lăsat aprins pentru o perioadă îndelungată îl poate supraîncălzi.
+
+Luminozitatea maximă „tot timpul” a fost testată pentru ½ ore, dar poate apărea riscul de defectare a LED-ului.
+"</string>
+    <string name="license">"Codul original de la Nexus One Torch de Ben Buxton, lansat sub GPLv3, modificat pentru CyanogenMod.
+http://n1torch.googlecode.com"</string>
+    <string name="warning_label">Avertisment</string>
+    <string name="brightwarn_negative">Nu, mulțumesc</string>
+    <string name="brightwarn_accept">Accept</string>
+    <string name="label_high">Luminozitate ridicată</string>
+    <string name="widget_options">Opțiuni generale</string>
+    <string name="setting_widget_bright">Widget luminos</string>
+    <string name="setting_add_widget">Adaugă widget</string>
+    <string name="not_torch_title">Lanternă pornită</string>
+    <string name="not_torch_toggle">Lanternă oprită</string>
+</resources>

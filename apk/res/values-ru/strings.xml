@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Фонарик</string>
+    <string name="about_title">О программе</string>
+    <string name="about_close">Закрыть</string>
+    <string name="description">"Эта программа использует светодиод вспышки камеры в качестве фонарика.
+"</string>
+    <string name="warning">"Осторожно: включённый на длительное время светодиод может перегреться и даже выйти из строя.
+
+Режим максимальной яркости тестировался в течение получаса, но на некоторых устройствах вспышка может нагреваться гораздо быстрее.
+"</string>
+    <string name="license">"Использован исходный код приложения Nexus One Torch Бена Бакстона, выпущенный под лицензией GPL v3.
+http://n1torch.googlecode.com/"</string>
+    <string name="warning_label">Внимание!</string>
+    <string name="brightwarn">"Режим максимальной яркости тестировался в течение получаса на некоторых устройствах. За это время светодиод сильно нагрелся, а потом начал мерцать, пока не остыл.
+Что может случиться при постоянном использовании этого режима — неизвестно!
+
+Нажмите «Согласиться», если вы хотите использовать эту функцию и осознаёте возможный риск."</string>
+    <string name="brightwarn_negative">Нет, спасибо</string>
+    <string name="brightwarn_accept">Согласиться</string>
+    <string name="label_high">Максимальная яркость</string>
+    <string name="widget_options">Настройки виджета</string>
+    <string name="setting_widget_bright">Максимальная яркость</string>
+    <string name="setting_add_widget">Добавить виджет</string>
+    <string name="not_torch_title">Фонарик включён</string>
+    <string name="not_torch_toggle">Выключить фонарик</string>
+</resources>

@@ -1,0 +1,13 @@
+version: 1.5.2
+apkFileName: Torch.orig.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '16'
+  targetSdkVersion: '18'
+packageInfo:
+  cur_package: net.cactii.flash2
+  orig_package: net.cactii.flash2
+compressionType: false

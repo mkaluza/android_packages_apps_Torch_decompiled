@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">El feneri</string>
+    <string name="about_title">Hakkında</string>
+    <string name="about_close">Kapat</string>
+    <string name="description">"Bu program kamera LED'ini kullanır.
+"</string>
+    <string name="warning">"Dikkat: LED'i uzun süre açık bırakmak aşırı ısınmasına neden olabilir.
+
+Tam parlaklıkta \"her zaman açık\" ½ saat boyunca test edilmiştir, ancak LED ışığında hasar meydana gelmesi olasıdır.
+"</string>
+    <string name="license">"Özgün kodu, Ben Buxton'un GPLv3 lisansıyla yayınlanan Nexus One Torch uygulamasından alınmış CyanogenMod tarafından değiştirilmiştir.
+http://n1torch.googlecode.com"</string>
+    <string name="warning_label">Uyarı</string>
+    <string name="brightwarn">"Tam parlaklık ½ saat boyunca başarılı olarak test edilmiştir, fakat aşırı ısınmaya yol açmış ve 45. dakikada ışık (geçici olarak) yanıp sönmeye başlamıştır. Uzun süreli etkileri bilinmemektedir.
+
+Kendi sorumluluğunuzda kullanmak istiyorsanız \"Kabul et\" tuşuna basınız."</string>
+    <string name="brightwarn_negative">Hayır, teşekkürler</string>
+    <string name="brightwarn_accept">Kabul et</string>
+    <string name="label_high">Yüksek parlaklık</string>
+    <string name="widget_options">Genel ayarlar</string>
+    <string name="setting_widget_bright">Parlak widget</string>
+    <string name="setting_add_widget">Widget ekle</string>
+    <string name="not_torch_title">Fener açık</string>
+    <string name="not_torch_toggle">Feneri kapat</string>
+</resources>

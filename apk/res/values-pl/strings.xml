@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Latarka</string>
+    <string name="about_title">O latarce</string>
+    <string name="about_close">Zamknij</string>
+    <string name="description">"Ten program używa diody LED aparatu.
+"</string>
+    <string name="warning">"Uwaga: Zostawienie diody włączonej na dłuższy czas może spowodować jej przegrzanie.
+
+Przeprowadzono pomyślne ½ godzinne testy przy maksymalnej jasności, ale istnieje ryzyko uszkodzenia diody.
+"</string>
+    <string name="license">"Oryginalny kod wzięty z latarki Nexus'a One Bena Buxtona, wydanej na licencji GPL v3, zmodyfikowanej dla CyanogenModa.
+http://n1torch.googlecode.com/"</string>
+    <string name="warning_label">Uwaga</string>
+    <string name="brightwarn">"Maksymalna jasność została przetestowana pomyślnie przez ½ godzin(y). Po 45 minutach zaobserwowano nagrzanie i (chwilowe) migotanie diody. Długotrwałe skutki są nieznane.
+
+Dotknij \"Akceptuj\" aby kontynuować na własną odpowiedzialność."</string>
+    <string name="brightwarn_negative">Anuluj</string>
+    <string name="brightwarn_accept">Akceptuj</string>
+    <string name="label_high">Maksymalna jasność</string>
+    <string name="widget_options">Ustawienia ogólne</string>
+    <string name="setting_widget_bright">Widget</string>
+    <string name="setting_add_widget">Dodaj widget</string>
+    <string name="not_torch_title">Latarka włączona</string>
+    <string name="not_torch_toggle">Wyłącz latarkę</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="bg">false</item>
+    <item type="id" name="lightbulb">false</item>
+    <item type="id" name="lightbulb_on">false</item>
+    <item type="id" name="main">false</item>
+    <item type="id" name="btn">false</item>
+    <item type="id" name="img_torch">false</item>
+    <item type="id" name="ind_text">false</item>
+    <item type="id" name="action_about">false</item>
+    <item type="id" name="action_high_brightness">false</item>
+    <item type="id" name="saveSetting">false</item>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lanterna</string>
+    <string name="about_title">Sobre Lanterna</string>
+    <string name="about_close">Fechar</string>
+    <string name="description">"Esse programa manipula o LED da câmera.
+"</string>
+    <string name="warning">"Aviso: Deixar o LED aceso por muito tempo pode sobreaquecê-lo.
+
+Brilho máximo “sempre ativo” foi testado por 30min, mas há um risco de dano ao LED.
+"</string>
+    <string name="license">"Código original do Nexus One Torch por Ben Buxton, lançado sob a licença GPLv3, modificada para o CyanogenMod.
+http://n1torch.googlecode.com/
+
+"</string>
+    <string name="warning_label">Aviso</string>
+    <string name="brightwarn">"Brilho máximo foi testado bem sucedido por 30min de operação, mas ficou bem quente, e começou a oscilar (temporariamente) aos 45 mins. O efeito a longo prazo é desconhecido.
+
+Toque em \"Aceitar\" se você quer usar por sua conta e risco."</string>
+    <string name="brightwarn_negative">Não obrigado</string>
+    <string name="brightwarn_accept">Aceitar</string>
+    <string name="label_high">Brilho Alto</string>
+    <string name="widget_options">Opções Gerais</string>
+    <string name="setting_widget_bright">Widget de Brilho</string>
+    <string name="setting_add_widget">Adicionar widget</string>
+    <string name="not_torch_title">Lanterna ligada</string>
+    <string name="not_torch_toggle">Desligar lanterna</string>
+</resources>

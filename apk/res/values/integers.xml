@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="valueOff">0</integer>
+    <integer name="valueOn">1</integer>
+    <integer name="valueLow">50</integer>
+    <integer name="valueHigh">128</integer>
+    <integer name="valueDeathRay">-1</integer>
+</resources>

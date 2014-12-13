@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_lamp_margin">16.0dip</dimen>
+    <dimen name="button_size">250.0dip</dimen>
+    <dimen name="lighbulb_size">180.0dip</dimen>
+</resources>

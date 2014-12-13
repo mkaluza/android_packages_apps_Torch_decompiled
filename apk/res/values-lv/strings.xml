@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Spuldze</string>
+    <string name="about_title">Par</string>
+    <string name="about_close">Aizvērt</string>
+    <string name="description">"Šī programma vada kameras gaismas diodi.
+"</string>
+    <string name="warning">"Brīdinājums: Atstājot LED ieslēgtu uz ilgu laiku, tā var pārkarst.
+
+Pilns spožums ar 'vienmēr ieslēgts' tika pārbaudīts ½ stundas, bet pastāv risks, tas var sabojāt LED.
+"</string>
+    <string name="license">"Sākotnējais kods no Nexus One Spuldzes, ko izstrādāja Bens Bakstons, izlaista saskaņā ar GPLv3, un mainīta CyanogenMod.
+http://n1torch.googlecode.com"</string>
+    <string name="warning_label">Brīdinājums</string>
+    <string name="brightwarn">"Pilns spilgtums ir sekmīgi pārbaudīts ½ stundu darbībā, bet diode bija diezgan karsta un pēc 45 min. sāka mirgot (uz laiku). Ilgtermiņa ietekme nav zināma.
+
+Klikšiniet 'Piekrist', ja vēlaties to izmantot. Jūs pats uzņematies risku."</string>
+    <string name="brightwarn_negative">Nē, paldies</string>
+    <string name="brightwarn_accept">Piekrist</string>
+    <string name="label_high">Liels spožums</string>
+    <string name="widget_options">Vispārīgās iespējas</string>
+    <string name="setting_widget_bright">Spožuma logrīks</string>
+    <string name="setting_add_widget">Pievienot logrīku</string>
+    <string name="not_torch_title">Spuldze ieslēgta</string>
+    <string name="not_torch_toggle">Spuldze izslēgta</string>
+</resources>

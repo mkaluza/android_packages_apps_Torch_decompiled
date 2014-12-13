@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest android:versionCode="19" android:versionName="4.4.4-eng.nuclearmistake.20141120.045109" package="net.cactii.flash2"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.flash" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+    <application android:theme="@style/AppTheme" android:label="@string/app_name" android:icon="@drawable/ic_launcher" android:allowBackup="true" android:supportsRtl="true">
+        <activity android:theme="@style/AppTheme.Translucent" android:label="@string/app_name" android:name=".MainActivity" android:launchMode="singleTask">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".WidgetOptionsActivity">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_CONFIGURE" />
+            </intent-filter>
+        </activity>
+        <receiver android:label="@string/app_name" android:name="TorchWidgetProvider">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+                <action android:name="net.cactii.flash2.TORCH_STATE_CHANGED" />
+            </intent-filter>
+            <meta-data android:name="android.appwidget.provider" android:resource="@xml/appwidget_info" />
+        </receiver>
+        <service android:name=".TorchService" android:enabled="true" />
+        <receiver android:label="@string/app_name" android:name="TorchSwitch" android:enabled="true">
+            <intent-filter>
+                <action android:name="net.cactii.flash2.TOGGLE_FLASHLIGHT" />
+            </intent-filter>
+        </receiver>
+    </application>
+</manifest>

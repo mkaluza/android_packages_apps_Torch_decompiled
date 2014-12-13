@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ліхтарик</string>
+    <string name="about_title">Про ліхтарик</string>
+    <string name="about_close">Закрити</string>
+    <string name="description">"дозволяє керувати спалахом камери.
+"</string>
+    <string name="warning">"Попередження: світлодіод спалаху, залишений увімкнутим на довгий час, може перегрітися.
+
+Режим повної яскравості був протестований протягом ½ год, але все ж існує ризик пошкодження світлодіода.
+"</string>
+    <string name="license">"Оригінальний код з Nexus One Torch від автора Ben Buxton, випущено під GPLv3, модифіковано для CyanogenMod.
+http://n1torch.googlecode.com/
+
+"</string>
+    <string name="warning_label">Увага</string>
+    <string name="brightwarn">"Робота ліхтаря в режимі повної яскравості була успішно протестована протягом півгодини, але викликало сильне нагрівання та тимчасове мерехтіння ліхтаря (через 45 хвилин). Наслідки більш тривалого використання невідомі.
+
+Натисніть “Прийняти”, якщо бажаєте використовувати додаток на свій страх і ризик."</string>
+    <string name="brightwarn_negative">Ні, дякую</string>
+    <string name="brightwarn_accept">Прийняти</string>
+    <string name="label_high">Висока яскравість</string>
+    <string name="widget_options">Основні налаштування</string>
+    <string name="setting_widget_bright">Віджет ліхтарика</string>
+    <string name="setting_add_widget">Додати віджет</string>
+    <string name="not_torch_title">Ліхтарик увімкнений</string>
+    <string name="not_torch_toggle">Вимкнути ліхтарик</string>
+</resources>

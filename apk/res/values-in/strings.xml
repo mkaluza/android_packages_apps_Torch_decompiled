@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Senter</string>
+    <string name="about_title">Tentang</string>
+    <string name="about_close">Tutup</string>
+    <string name="description">"Program ini memanipulasi kamera LED.
+"</string>
+    <string name="warning">"Peringatan: Meninggalkan LED untuk waktu yang lama mungkin akan membuat terlalu panas.
+
+Kecerahan full 'selalu aktif' telah diuji untuk menjalankan ½ hr, tapi ada risiko ini dapat merusak LED.
+"</string>
+    <string name="license">"Kode asli dari Nexus One Torch oleh Ben Buxton, dirilis di bawah GPLv3, dimodifikasi untuk CyanogenMod.
+http://n1torch.googlecode.com"</string>
+    <string name="warning_label">Peringatan</string>
+    <string name="brightwarn">"Kecerahan full telah berhasil diuji selama ½ jam operasi, tetapi ini menyebabkan perangkat menjadi cukup panas, dan mulai berkedip-kedip (sementara) pada 45 menit. Efek jangka panjang tidak diketahui.
+
+Klik 'Terima' jika Anda ingin menggunakannya dengan risiko Anda sendiri."</string>
+    <string name="brightwarn_negative">Tidak terima kasih</string>
+    <string name="brightwarn_accept">Terima</string>
+    <string name="label_high">Kecerahan tinggi</string>
+    <string name="widget_options">Pengaturan Umum</string>
+    <string name="setting_widget_bright">Widget cerah</string>
+    <string name="setting_add_widget">Tambahkan widget</string>
+    <string name="not_torch_title">Torch aktif</string>
+    <string name="not_torch_toggle">Matikan Senter</string>
+</resources>

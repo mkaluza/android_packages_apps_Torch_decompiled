@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tõrvik</string>
+    <string name="about_title">Üldist</string>
+    <string name="about_close">Sulge</string>
+    <string name="description">"See programm manipuleerib kaamera LEDiga.
+"</string>
+    <string name="warning">"Hoiatus: Jättes LEDi kauaks sisse võib see ülekuumeneda.
+
+Täisheledus 'alati sees' on testitud ½ tunniks, kuid on siiski võimalus, et LED võib kahjustuda.
+"</string>
+    <string name="license">"Algkood Nexus One Torchilt Ben Buxtoni poolt, väljalastud GPLv3 all, kohandatud CyanogenModile.
+http://n1torch.googlecode.com"</string>
+    <string name="warning_label">Hoiatus</string>
+    <string name="brightwarn">"Täisheledus on edukalt testitud ½ tunni jooksul, aga muutus üsna kuumaks ning hakkas virvendama (ajutiselt) 45 minuti järel. Pikaajaline mõju on teadmata.
+
+Kliki 'Nõustu' kui tahate seda kasutada omal vastutusel."</string>
+    <string name="brightwarn_negative">Tänan ei</string>
+    <string name="brightwarn_accept">Nõustu</string>
+    <string name="label_high">Kõrge heledus</string>
+    <string name="widget_options">Üldised valikud</string>
+    <string name="setting_widget_bright">Ere vidin</string>
+    <string name="setting_add_widget">Lisa vidin</string>
+    <string name="not_torch_title">Tõrvik sees</string>
+    <string name="not_torch_toggle">Lülita tõrvik välja</string>
+</resources>

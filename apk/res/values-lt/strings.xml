@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Žibintuvėlis</string>
+    <string name="about_title">Apie</string>
+    <string name="about_close">Uždaryti</string>
+    <string name="description">"Ši programa naudoja fotoaparato šviesos diodą.
+"</string>
+    <string name="warning">"Įspėjimas: Paliekant šviesos diodą įjungtą ilgesniam laikui jis gali perkaisti.
+
+Visu šviesumu buvo bandoma ½ val., yra rizika jog tai gali sugadinti šviesos diodą.
+"</string>
+    <string name="license">"Originalus kodas iš „Nexus One Torch“ pagal Ben Buxton, išleistas pagal GPL, v3, modifikuotas „CyanogenMod“.
+http://n1torch.googlecode.com"</string>
+    <string name="warning_label">Įspėjimas</string>
+    <string name="brightwarn">"Pilnu šviesumas buvo bandoma ½ val., bet šviesos diodas tapo pakankamai karštas ir pradėjo mirksėti (laikinai) praėjus 45 minutėms. Ilgalaikės pasekmės yra nežinomos.
+
+Spauskite „Sutinku“, jei norite naudoti tai savo paties rizika."</string>
+    <string name="brightwarn_negative">Ne, ačiū</string>
+    <string name="brightwarn_accept">Sutinku</string>
+    <string name="label_high">Didelis šviesumas</string>
+    <string name="widget_options">Bendrieji nustatymai</string>
+    <string name="setting_widget_bright">Šviesus valdiklis</string>
+    <string name="setting_add_widget">Pridėti valdiklį</string>
+    <string name="not_torch_title">Žibintuvėlis įjungtas</string>
+    <string name="not_torch_toggle">Išjungti žibintuvėlį</string>
+</resources>

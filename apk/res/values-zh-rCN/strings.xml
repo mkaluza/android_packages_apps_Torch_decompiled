@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">手电筒</string>
+    <string name="about_title">关于</string>
+    <string name="about_close">关闭</string>
+    <string name="description">"本应用能操控相机的 LED。
+"</string>
+    <string name="warning">"警告：长期开启 LED 会使其过热。
+
+经测试闪光灯高亮模式可以“长开”半小时，但仍然有令 LED 损坏的风险。
+"</string>
+    <string name="license">"原始代码来自 Ben Buxton 编写的 Nexus One 手电筒，在 GPLv3 授权下发布，修改后供 CyanogenMod 使用。 
+http://n1torch.googlecode.com"</string>
+    <string name="warning_label">警告</string>
+    <string name="brightwarn">"高亮模式曾经成功测试过能够开启 ½ 小时，但会变得很热，并于 45 分钟后开始（暂时性的）忽暗忽亮。目前未知是否会有长期性的副作用。
+
+如果您愿意承受该风险，请点击“接受”按钮。"</string>
+    <string name="brightwarn_negative">拒绝</string>
+    <string name="brightwarn_accept">接受</string>
+    <string name="label_high">高亮模式</string>
+    <string name="widget_options">常规选项</string>
+    <string name="setting_widget_bright">高亮模式</string>
+    <string name="setting_add_widget">添加小部件</string>
+    <string name="not_torch_title">手电筒已开启</string>
+    <string name="not_torch_toggle">关闭手电筒</string>
+</resources>

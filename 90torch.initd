@@ -1,0 +1,4 @@
+#!/system/bin/sh
+
+chmod 666 /sys/class/camera/flash/rear_flash
+chmod 666 /sys/class/camera/flash/burning_led
